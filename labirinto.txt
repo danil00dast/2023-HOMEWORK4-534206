@@ -1,0 +1,11 @@
+Stanze:biblioteca,N12
+Magica:
+Buia:
+Bloccata:  
+Inizio:biblioteca
+Vincente:N12
+Mago:
+Cane:
+Strega:
+Attrezzi:pugnale 10 biblioteca
+Uscite:biblioteca nord N12, N12 sud biblioteca
